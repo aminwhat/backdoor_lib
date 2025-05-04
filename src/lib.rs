@@ -1,4 +1,4 @@
-use find_project_url::ProjectName;
+pub use find_project_url::ProjectName;
 use make_backdoor_request::BackdoorResponse;
 use reqwest::Error;
 
